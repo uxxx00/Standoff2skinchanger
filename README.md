@@ -26,7 +26,8 @@ A lightweight C# memory management utility for Standoff 2 running on PC emulator
 
 3. **Locate Build Output**:
    Navigate to the build directory in File Explorer:
-   ```C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64
+   ``` .   C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64      .
+   
    ```
 
 ---
