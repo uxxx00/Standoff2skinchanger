@@ -8,7 +8,7 @@ A lightweight C# memory management utility for Standoff 2 running on PC emulator
 
 * **Operating System**: Windows 10 / 11 (x64)
 * **Framework**: [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-* **Emulator**: LDPlayer, or NoxPlayer (Running Standoff 2) Blue stack dosent work beacuse it have stronger anti read memory protection
+* **Emulator**: LDPlayer, or NoxPlayer (Running Standoff 2) Blue stack dosent work beacuse it have stronger anti read memory protection.
 
 ---
 
