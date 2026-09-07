@@ -1,0 +1,14 @@
+C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64\SkinChanger.exe
+C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64\SkinChanger.deps.json
+C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64\SkinChanger.runtimeconfig.json
+C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64\SkinChanger.dll
+C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64\SkinChanger.pdb
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.AssemblyInfoInputs.cache
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.AssemblyInfo.cs
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.dll
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\refint\SkinChanger.dll
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.pdb
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\SkinChanger.genruntimeconfig.cache
+C:\Users\Admin\New folder (2)\obj\Release\net8.0\win-x64\ref\SkinChanger.dll
