@@ -16,15 +16,14 @@ A lightweight C# memory management utility for Standoff 2 running on PC emulator
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/uxxx00/Standoff2skinchanger
-   ```
+    https://github.com/uxxx00/Standoff2skinchanger```
 
-2. **Build the Project**:
+3. **Build the Project**:
    ```bash
    dotnet build -c Release -r win-x64 --self-contained false
    ```
 
-3. **Locate Build Output**:
+4. **Locate Build Output**:
    Navigate to the build directory in File Explorer:
    ```C:\Users\Admin\New folder (2)\bin\Release\net8.0\win-x64```
 
