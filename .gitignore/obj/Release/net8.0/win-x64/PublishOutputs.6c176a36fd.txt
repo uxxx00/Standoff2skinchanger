@@ -1,5 +1,0 @@
-C:\Users\Admin\New folder (2)\publish\SkinChanger.exe
-C:\Users\Admin\New folder (2)\publish\SkinChanger.dll
-C:\Users\Admin\New folder (2)\publish\SkinChanger.deps.json
-C:\Users\Admin\New folder (2)\publish\SkinChanger.runtimeconfig.json
-C:\Users\Admin\New folder (2)\publish\SkinChanger.pdb
