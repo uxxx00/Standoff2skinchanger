@@ -16,7 +16,7 @@ A lightweight C# memory management utility for Standoff 2 running on PC emulator
 
 1. **Clone the Repository**:
    ```bash
-    https://github.com/uxxx00/Standoff2skinchanger
+   git clone https://github.com/uxxx00/Standoff2skinchanger
    ```
 
 3. **Build the Project**:
